@@ -6,4 +6,7 @@
 ## 2
 ![quar](cuarto.png)
 ![quint](quinta.png)
+![sext](sexta.png)
+![sept](septima.png)
+![octa](octavo.png)
 
