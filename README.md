@@ -12,4 +12,6 @@
 ## 3
 ![nove](noveno.png)
 ![deci](decimo.png)
-
+## 4
+![deci](decimo1.png)
+![deci](decimo2.png)
