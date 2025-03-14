@@ -9,4 +9,7 @@
 ![sext](sexta.png)
 ![sept](septima.png)
 ![octa](octavo.png)
+## 3
+![nove](noveno.png)
+![deci](decimo.png)
 
