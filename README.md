@@ -15,3 +15,6 @@
 ## d)
 ![deci](decimo1.png)
 ![deci](decimo2.png)
+## Nota
+![deci](decimo3.png)
+![deci](decimo4.png)
