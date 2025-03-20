@@ -19,3 +19,4 @@
 ![deci](decimo3.png)
 ![deci](decimo4.png)
 ![deci](decimo5.png)
+![deci](decimo6.png)
