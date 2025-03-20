@@ -18,5 +18,9 @@
 ## Nota
 ![deci](decimo3.png)
 ![deci](decimo4.png)
+## e)
 ![deci](decimo5.png)
 ![deci](decimo6.png)
+## 2.
+![deci](decimo7.png)
+
