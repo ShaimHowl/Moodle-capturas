@@ -29,4 +29,5 @@
 ![deci](decimo9.png)
 ![deci](decimo10.png)
 ![deci](decimo11.png)
+![deci](decimo12.png)
 
