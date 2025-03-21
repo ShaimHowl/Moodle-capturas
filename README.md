@@ -31,4 +31,5 @@
 ![deci](decimo11.png)
 ## 3.
 ![deci](decimo12.png)
+![deci](decimo13.png)
 
