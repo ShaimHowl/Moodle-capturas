@@ -32,4 +32,7 @@
 ## 3.
 ![deci](decimo12.png)
 ![deci](decimo13.png)
+## a)
+![deci](decimo14.png)
+![deci](decimo15.png)
 
