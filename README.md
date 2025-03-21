@@ -36,3 +36,6 @@
 ![deci](decimo14.png)
 ![deci](decimo15.png)
 
+## b)
+![deci](decimo16.png)
+![deci](decimo17.png)
