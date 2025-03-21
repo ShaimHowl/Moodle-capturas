@@ -39,3 +39,7 @@
 ## b)
 ![deci](decimo16.png)
 ![deci](decimo17.png)
+## c)
+![deci](decimo18.png)
+![deci](decimo19.png)
+![deci](20.png)
