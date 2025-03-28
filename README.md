@@ -48,3 +48,5 @@
 ## 5
 ![deci](22.png)
 ![deci](23.png)
+## b)
+![deci](25.png)
