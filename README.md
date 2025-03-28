@@ -32,6 +32,7 @@
 ## 3.
 ![deci](decimo12.png)
 ![deci](decimo13.png)
+## 4
 ## a)
 ![deci](decimo14.png)
 ![deci](decimo15.png)
@@ -44,3 +45,4 @@
 ![deci](decimo19.png)
 ![deci](20.png)
 ![deci](21.png)
+## 5
