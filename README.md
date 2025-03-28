@@ -46,7 +46,10 @@
 ![deci](20.png)
 ![deci](21.png)
 ## 5
+## a)
 ![deci](22.png)
 ![deci](23.png)
 ## b)
 ![deci](25.png)
+## 6
+![deci](26.png)
