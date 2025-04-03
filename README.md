@@ -60,3 +60,5 @@
 ![deci](29.png)
 ### el alumno si puede entrar al pdf
 ![deci](30.png)
+## Cualificaciones
+![deci](31.png)
