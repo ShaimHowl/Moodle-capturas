@@ -55,3 +55,8 @@
 ![deci](26.png)
 ## 7
 ![deci](27.png)
+## 8
+![deci](28.png)
+![deci](29.png)
+### el alumno si puede entrar al pdf
+![deci](30.png)
